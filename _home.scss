@@ -76,6 +76,7 @@ main {
         position: relative;
 
         h2 {
+            z-index: 999;
             width: 90%;
             position: absolute;
             top: 18%;
@@ -83,10 +84,11 @@ main {
             font-size: 3.5rem;
             font-weight: 600;
             color: $cor-branco;
-            z-index: 999;
+
         }
 
         p {
+            z-index: 999;
             width: 80%;
             position: absolute;
             top: 50%;
@@ -94,7 +96,7 @@ main {
             font-size: 1.5rem;
             font-weight: 500;
             color: $cor-branco;
-            z-index: 999;
+
         }
 
         a {

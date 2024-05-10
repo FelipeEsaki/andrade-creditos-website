@@ -24,7 +24,7 @@
 
         p {
             @include p-default;
-            color: $cor-secundaria;
+            color: $cor-cinza;
         }
     }
 }
@@ -48,7 +48,7 @@
 
         p {
             @include p-default;
-            color: $cor-secundaria;
+            color: $cor-cinza;
         }
     }
 }
@@ -82,7 +82,7 @@
 
             p {
                 @include p-default;
-                color: $cor-secundaria;
+                color: $cor-cinza;
             }
         }
     }

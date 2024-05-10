@@ -63,12 +63,12 @@
     }
 
     .form {
-        margin: 0 20px;
+        margin: 0 auto;
         width: 400px;
         height: 600px;
         display: flex;
         flex-direction: column;
-        background-image: url(assets/bg\ form.png);
+        background-color: $cor-secundaria;
         background-size: cover;
         background-size: cover;
         box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -163,7 +163,7 @@
             border: 0;
 
             &:hover {
-                background-color: $cor-secundaria;
+                background-color: $cor-primaria;
                 color: $cor-branco;
             }
         }

@@ -17,12 +17,12 @@ const servicos = [
     {
         imagem: `//img.icons8.com/ios/100/security-checked.png`,
         servico: 'Seguros',
-        texto: `A Agi Capital possui <strong>todos os tipos de seguros</strong> e <strong>mais de 10 seguradoras</strong> parceiras para melhor atender sua necessidade!`
+        texto: `A Andrade Créditos possui <strong>todos os tipos de seguros</strong> e <strong>mais de 10 seguradoras</strong> parceiras para melhor atender sua necessidade!`
     },
     {
         imagem: `//img.icons8.com/ios/100/money-transfer.png`,
         servico: 'Consórcios',
-        texto: `A Agi Capital oferece a <strong>melhor opção de consórcio</strong> de acordo com sua necessidade. Trabalhamos com todos os tipos de consórcios!`
+        texto: `A Andrade Créditos oferece a <strong>melhor opção de consórcio</strong> de acordo com sua necessidade. Trabalhamos com todos os tipos de consórcios!`
     },
     {
         imagem: `//img.icons8.com/ios/100/solar-panel--v1.png`,
@@ -37,17 +37,12 @@ const servicos = [
     {
         imagem: `//img.icons8.com/ios/100/car--v1.png`,
         servico: 'Financiamento Veicular',
-        texto: `Está na hora de adquirir seu <strong>novo veículo</strong>! Com a Agi Capital você tem as <strong>melhores taxas</strong> e opções de financiamento!`
+        texto: `Está na hora de adquirir seu <strong>novo veículo</strong>! Com a Andrade Créditos você tem as <strong>melhores taxas</strong> e opções de financiamento!`
     },
     {
         imagem: `//img.icons8.com/ios/100/cottage--v1.png`,
         servico: 'Financiamento Residencial',
-        texto: `Está na hora de adquirir sua <strong>nova casa</strong>! Com a Agi Capital você tem as <strong>melhores taxas</strong> e opções de financiamento e refinanciamento residencial!`
-    },
-    {
-        imagem: `//img.icons8.com/pulsar-line/96/certification.png`,
-        servico: 'Certificado Digital',
-        texto: `Adquira seu <strong>certificado digital</strong> com a Agi Capital! Temos <strong>profissionais especializados</strong> para te atender!`
+        texto: `Está na hora de adquirir sua <strong>nova casa</strong>! Com a Andrade Créditos você tem as <strong>melhores taxas</strong> e opções de financiamento e refinanciamento residencial!`
     },
     {
         imagem: `//img.icons8.com/ios/100/get-cash--v1.png`,

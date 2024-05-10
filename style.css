@@ -138,6 +138,7 @@ main .carousel-slide {
   position: relative;
 }
 main .carousel-slide h2 {
+  z-index: 999;
   width: 90%;
   position: absolute;
   top: 18%;
@@ -145,9 +146,9 @@ main .carousel-slide h2 {
   font-size: 3.5rem;
   font-weight: 600;
   color: #fff;
-  z-index: 999;
 }
 main .carousel-slide p {
+  z-index: 999;
   width: 80%;
   position: absolute;
   top: 50%;
@@ -155,7 +156,6 @@ main .carousel-slide p {
   font-size: 1.5rem;
   font-weight: 500;
   color: #fff;
-  z-index: 999;
 }
 main .carousel-slide a {
   width: auto;
@@ -1494,7 +1494,7 @@ main .carousel-slide img {
   font-size: 1.2rem;
   color: #fff;
   font-weight: 400;
-  color: #6C924C;
+  color: #7e7e7e;
 }
 
 .second__section {
@@ -1517,7 +1517,7 @@ main .carousel-slide img {
   font-size: 1.2rem;
   color: #fff;
   font-weight: 400;
-  color: #6C924C;
+  color: #7e7e7e;
 }
 
 @media (max-width: 768px) {
@@ -1547,7 +1547,7 @@ main .carousel-slide img {
     font-size: 1.2rem;
     color: #fff;
     font-weight: 400;
-    color: #6C924C;
+    color: #7e7e7e;
   }
 }
 .servicos {
@@ -1634,7 +1634,7 @@ main .carousel-slide img {
   margin: 50px auto;
   display: flex;
   flex-direction: column;
-  background-image: url(assets/bg\ form.png);
+  background-color: #6C924C;
   background-size: cover;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding: 40px;
@@ -1732,13 +1732,12 @@ main .carousel-slide img {
   border: 0;
 }
 .main__simulacao .form .btn-enviar:hover {
-  background-color: #6C924C;
+  background-color: #EC8B39;
   color: #fff;
 }
 
 @media (max-width: 768px) {
   .main__simulacao {
-    background-image: url(assets/pattern.png);
     background-size: cover;
     padding-bottom: 100px;
   }
@@ -1747,7 +1746,6 @@ main .carousel-slide img {
     margin: 50px auto;
     display: flex;
     flex-direction: column;
-    background-image: url(assets/bg\ form.png);
     background-size: cover;
     padding: 40px;
     border-radius: 20px;
@@ -1845,7 +1843,7 @@ main .carousel-slide img {
     border: 0;
   }
   .main__simulacao .form .btn-enviar:hover {
-    background-color: #6C924C;
+    background-color: #EC8B39;
     color: #fff;
   }
 }
@@ -1906,12 +1904,12 @@ main .carousel-slide img {
   font-weight: 600;
 }
 .section__contato .form {
-  margin: 0 20px;
+  margin: 0 auto;
   width: 400px;
   height: 600px;
   display: flex;
   flex-direction: column;
-  background-image: url(assets/bg\ form.png);
+  background-color: #6C924C;
   background-size: cover;
   background-size: cover;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -2010,7 +2008,7 @@ main .carousel-slide img {
   border: 0;
 }
 .section__contato .form .btn-enviar:hover {
-  background-color: #6C924C;
+  background-color: #EC8B39;
   color: #fff;
 }
 .section__contato iframe {
